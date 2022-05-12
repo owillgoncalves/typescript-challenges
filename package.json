@@ -1,0 +1,20 @@
+{
+  "name": "typescript-challenges",
+  "version": "0.0.1",
+  "description": "Created following the JavaScript challenges on Fabio Bergmann on him Instagram profile",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node-dev --respawn --clear --quiet ./src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "William Gonçalves",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.2"
+  }
+}
