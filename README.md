@@ -1,9 +1,3 @@
 # typescript-challenges
 
-Created following the JavaScript challenge on @fabioberg's Instagram
-
-Credits for challenges:
-
-Fabio Bergmann
-https://instagram.com/fabiocberg
-https://github.com/fabiocberg
+### Created following the JavaScript challenges on [Fabio Bergmann](https://github.com/fabiocberg) on him [Instagram](https://instagram.com/fabiocberg) profile
